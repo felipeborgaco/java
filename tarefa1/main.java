@@ -1,3 +1,4 @@
+package tarefa1;
 import estoque.*;
 public class main {
 
